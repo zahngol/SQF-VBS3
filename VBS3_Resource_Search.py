@@ -46,7 +46,7 @@ class Vbs3wikiSearchFromInputCommand(sublime_plugin.WindowCommand):
         pass
 
 def SearchDevRefFor(text):
-    url = 'https://manuals.bisimulations.com/vbs3/3-0/devref/#search-' + text.replace(' ','%20')
+    url = 'https://manuals.bisimulations.com/vbs3/3-7/devref/#search-' + text.replace(' ','%20')
     webbrowser.open_new_tab(url)
 
 class Vbs3devrefSearchSelectionCommand(sublime_plugin.TextCommand):
@@ -75,7 +75,8 @@ class Vbs3devrefSearchFromInputCommand(sublime_plugin.WindowCommand):
         pass
 
 def SearchForumsFor(text):
-    url = 'https://forums.bisimulations.com/search.php?keywords=' + text.replace(' ','%20')
+    url = 'https://forums.bisimulations.com/search?q=test&searchJSON=%7B%22keywords%22%3A%22' + text.replace(' ','%20') + '%22%7D'
+    # url = 'https://forums.bisimulations.com/search.php?keywords=' + text.replace(' ','%20')
     webbrowser.open_new_tab(url)
 
 class VbsforumsSearchSelectionCommand(sublime_plugin.TextCommand):
