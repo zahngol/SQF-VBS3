@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+for "_x" from ${1:0} to ${2:10} step ${3:1} do {
+	${4:}
+};
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>for var</description>
+</snippet>
+

@@ -1,0 +1,18 @@
+[
+    {
+        "command": "vbs3wiki_search_selection",
+        "caption": "BIS Wiki Search"
+    },
+    {
+        "command": "vbs3devref_search_selection",
+        "caption": "VBS3 Dev Ref Search"
+    },
+    {
+        "command": "vbsforums_search_selection",
+        "caption": "VBS Forum Search"
+    },
+    {
+        "command": "color_pick",
+        "caption": "Color Picker - VBS Format"
+    }
+]

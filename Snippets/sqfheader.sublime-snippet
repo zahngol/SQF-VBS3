@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[#include "\vbs2\headers\function_library.hpp"
+#include "\vbs2\headers\dikCodes.hpp"
+finishMissionInit;
+waitUntil { time > 0 };
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sqfheader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sqf</scope>
+</snippet>

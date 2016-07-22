@@ -1,0 +1,42 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "VBS Resources",
+                "mnemonic": "f",
+                "id": "bisresources",
+                "children":
+                [
+                    {
+                        "command": "vbs3wiki_search_selection",
+                        "caption": "Wiki - Search Selection"
+                    },
+                    {
+                        "command": "vbs3wiki_search_from_input",
+                        "caption": "Wiki - Search From Input"
+                    },
+                    {
+                        "command": "vbs3devref_search_selection",
+                        "caption": "Dev Ref - Search Selection"
+                    },
+                    {
+                        "command": "vbs3devref_search_from_input",
+                        "caption": "Dev Ref - Search From Input"
+                    },
+                    {
+                        "command": "vbsforums_search_selection",
+                        "caption": "Forums - Search Selection"
+                    },
+                    {
+                        "command": "vbsforums_search_from_input",
+                        "caption": "Forums - Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "caption": "BIS Wiki: Search Selection",
+        "command": "vbs3wiki_search_selection"
+    },
+    {
+        "caption": "BIS Wiki: Search from Input",
+        "command": "vbs3wiki_search_from_input"
+    },
+    {
+        "caption": "VBS3 Dev Ref: Search Selection",
+        "command": "vbs3devref_search_selection"
+    },
+    {
+        "caption": "VBS3 Dev Ref: Search from Input",
+        "command": "vbs3devref_search_from_input"
+    },
+    {
+        "caption": "VBS Forums: Search Selection",
+        "command": "vbsforums_search_selection"
+    },
+    {
+        "caption": "VBS Forums: Search from Input",
+        "command": "vbsforums_search_from_input"
+    },
+    {
+        "caption": "Color Picker",
+        "command": "color_pick"
+    }
+]

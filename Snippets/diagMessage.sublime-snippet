@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+[${1:-1}, ${2:10000}] diagMessage format["%1", ${3:_this}];
+]]></content>
+	<tabTrigger>diagMessage</tabTrigger>
+	<scope>source.sqf</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+for [{_x=${1:0}},{_x<${2:10}},{_x=${3:_x+1}}] do {
+	${4:}
+};
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.sqf</scope>
+	<description>for forspec</description>
+</snippet>
+

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+waitUntil { ${1:condition} };
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>waitUntil</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.sqf</scope>
+</snippet>
