@@ -1,6 +1,7 @@
 [
     { "keys": ["ctrl+shift+c"], "command": "color_pick" },
     { "keys": ["ctrl+shift+f1"], "command": "vbs3wiki_search_selection" },
+    { "keys": ["ctrl+shift+'"], "command": "vbs3wiki_search_selection" },
     { "keys": ["ctrl+shift+f2"], "command": "vbs3devref_search_selection" },
     { "keys": ["ctrl+shift+f3"], "command": "vbsforums_search_selection" }
 ]
