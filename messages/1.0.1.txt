@@ -1,0 +1,2 @@
+- Added back the Ctrl+Shift+' shortcut for searching the wiki
+- Fixed the URL paths for searching the Developers Reference and the VBS Forums
