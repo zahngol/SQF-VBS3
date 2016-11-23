@@ -16,6 +16,7 @@ import sublime_plugin
 import subprocess
 import webbrowser
 
+
 def SearchWikiFor(text):
     url = 'https://resources.bisimulations.com/w/index.php?title=Special%3ASearch&search=' + text.replace(' ','%20') + '&go=Go'
     webbrowser.open_new_tab(url)

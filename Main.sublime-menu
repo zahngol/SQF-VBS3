@@ -34,6 +34,10 @@
                     {
                         "command": "vbsforums_search_from_input",
                         "caption": "Forums - Search From Input"
+                    },
+                    {
+                        "command": "open_vbs_rpt_file",
+                        "caption": "Open VBS RPT File"
                     }
                 ]
             }

@@ -112,6 +112,14 @@
 			<key>name</key>
 			<string>string.quoted.single.sqf</string>
 		</dict>
+		<dict>
+			<key>comment</key>
+			<string>Functions</string>
+			<key>match</key>
+			<string>\bfn_\w+</string>
+			<key>name</key>
+			<string>entity.name.function.sqf</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.sqf</string>
