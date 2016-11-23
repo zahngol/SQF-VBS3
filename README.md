@@ -11,6 +11,7 @@ SQF Syntax Highlighting and Enhancement Features for Bohemia Interactive Simulat
     + [Search Resources](#search-resources)
     + [Color Picker](#color-picker)
     + [Keyboard Shortcuts](#keyboard-shortcuts)
+    + [Open Report File](#open-report-file)
 - [Support](#support)
 
 ## Features:
@@ -65,6 +66,10 @@ For all Sublime Text 2/3 users we recommend install via [Package Control](https:
     + `Ctrl+Shift+F3`
 - Open Color Picker
     + `Ctrl+Shift+C`
+
+### Open Report File
+- You can open the VBS3_64.RPT file without having to navigate to the proper folder by going to `Tools -> VBS Resources -> Open VBS RPT File`
+    + Any errors that you see show up in VBS should be near the bottom of this file
 
 ## Support:
 * Any bugs about SQF for VBS3 please feel free to report [here](https://github.com/zahngol/SQF-VBS3/issues).

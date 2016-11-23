@@ -1,0 +1,2 @@
+- Added menu option to "Open VBS RPT File" for easier debugging
+- Added highlighting for functions that begin with "fn_"
